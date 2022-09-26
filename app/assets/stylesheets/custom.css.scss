@@ -1,9 +1,5 @@
 @import 'bootstrap/dist/css/bootstrap';
 
-.navbar {
-  background-color: black !important;
-}
-
 .nav-link {
   color: white !important;
 }
@@ -19,6 +15,10 @@ a {
   text-transform: uppercase;
   letter-spacing: -1px;
   font-weight: bold;
+}
+
+.hamburger {
+  color: white !important;
 }
 
 #home-container {
